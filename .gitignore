@@ -1,0 +1,7 @@
+data/*
+*.csv
+*.csv.gz
+*.pkl
+*.pickle
+__pycache__/*
+.ipynb_checkpoints
